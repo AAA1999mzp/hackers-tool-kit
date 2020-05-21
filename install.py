@@ -49,7 +49,7 @@ def install():
 	os.system("gem install lolcat")
 	os.system("cd /root/ && git clone https://github.com/Und3rf10w/kali-anonsurf")
 	os.system("cd /root/kali-anonsurf && ./installer.sh")
-	print "\n"
+	print ("\n")
 	print """entering big download region prepare you anus
 	if your not ready press ctrl C """
 	i = raw_input("press ctrl c to stop hit enter to continue")
